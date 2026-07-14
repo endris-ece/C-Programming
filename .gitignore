@@ -1,0 +1,21 @@
+# Compiled C programs
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Build folders
+build/
+bin/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
