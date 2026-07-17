@@ -46,15 +46,35 @@ Features include:
 - Generate multiple passwords
 - Input validation
 
+### 4. Text Statistics
+
+A console-based text analysis program that examines a user-provided sentence and displays various statistics.
+
+Features include:
+
+- Character count
+- Letter count
+- Digit count
+- Word count
+- Space count
+- Uppercase letter count
+- Lowercase letter count
+- Analyze multiple sentences
+- Input validation
+
 ## Skills Practiced
 
+- Variables and data types
+- Arithmetic operators
 - Functions
 - Enums
 - Loops
 - Conditional statements
-- Menu-driven programs
-- String handling
-- Mathematical library functions
+- Switch statements
+- Strings
+- Character processing
 - Random number generation
+- Mathematical library functions
 - Input validation
+- Menu-driven programming
 - Program organization
